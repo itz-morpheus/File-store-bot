@@ -44,7 +44,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Ashlynn_Repository>𝗔𝘀𝗵𝗹𝘆𝗻𝗻 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆</a>
 
-🌐 ᴡᴇʙsɪᴛᴇ: <a href=https://t.me/VJ_Bot_Disscussion>𝐕𝐉 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+🌐 ᴡᴇʙsɪᴛᴇ: <a href=https://ashlynn-repo.tech/>ᴀʀ ᴡᴇʙsɪᴛᴇ</a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Ashlynn_Repository>𝗔𝘀𝗵𝗹𝘆𝗻𝗻 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆</a></b>
 """
